@@ -24,3 +24,4 @@ PROCESS-NAME,cloudflared
 
 # Tailscale
 PROCESS-NAME,tailscaled
+PROCESS-NAME,Tailscale.app
