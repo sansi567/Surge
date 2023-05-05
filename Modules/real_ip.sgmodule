@@ -2,4 +2,4 @@
 #!system=mac
 
 [General]
-always-real-ip = %APPEND% time.*.com, time.*.apple.com, *.ntp.org.cn, *.pool.ntp.org, stun.*.*, stun.*.*.*, *.lan, *.localhost, *.home.arpa, *.ts.net, *.*.ts.net, time1.cloud.tencent.com, localhost.ptlogin2.qq.com, *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com
+always-real-ip = %APPEND% time.*.com, time.*.apple.com, *.ntp.org.cn, *.pool.ntp.org, stun.*.*, stun.*.*.*, *.lan, *.localhost, *.home.arpa, *.ts.net, *.*.ts.net, time1.cloud.tencent.com, localhost.ptlogin2.qq.com, *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com, controlplane.tailscale.com, log.tailscale.io, derp*.*.*
