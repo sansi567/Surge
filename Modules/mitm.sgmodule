@@ -1,0 +1,5 @@
+#!name=MitM
+#!desc=对所有域名进行 MitM，常见不可 MitM 除外
+
+[MITM]
+hostname = -*.apple.com, -*.icloud.com, -*.mzstatic.com, -*.crashlytics.com, -*.facebook.com, -*.instagram.com, *
