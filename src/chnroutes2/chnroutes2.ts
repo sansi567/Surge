@@ -7,14 +7,11 @@ export default async function build() {
     return `IP-CIDR,${v}`;
   });
 
-  const file = await Deno.open(`${Deno.cwd()}/Ruleset/China/China.list`, {
-    write: true,
-    append: true,
-  });
+  const file = await Deno.open(`${Deno.cwd()}/Ruleset/China/China.list`, {write: true});
 
   await file.write(
     new TextEncoder().encode(
-      `# Update: ${new Date().toString()}\n${list.join("\n")}`,
+      `# China CIDR, https://misaka.io\n# Update: ${new Date().toString()}\n${list.join("\n")}`,
     ),
   );
 
