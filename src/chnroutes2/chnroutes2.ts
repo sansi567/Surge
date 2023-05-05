@@ -24,7 +24,7 @@ export default async function build() {
 export async function parse() {
   const resp = await fetch(addr);
   const body = await resp.text();
-  return  body.split("\n").filter((v) => {
+  return body.split("\n").filter((v) => {
     if (!v) return false;
     return !v.startsWith("#");
   });
