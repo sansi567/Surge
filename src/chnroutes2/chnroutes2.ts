@@ -2,13 +2,7 @@ const addr =
   "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt";
 
 export default async function build() {
-  const resp = await fetch(addr);
-  const body = await resp.text();
-  const data = body.split("\n").filter((v) => {
-    if (!v) return false;
-    return !v.startsWith("#");
-  });
-
+  const data = await parse();
   const list = data.map((v) => {
     return `IP-CIDR,${v}`;
   });
@@ -25,4 +19,13 @@ export default async function build() {
   );
 
   file.close();
+}
+
+export async function parse() {
+  const resp = await fetch(addr);
+  const body = await resp.text();
+  return  body.split("\n").filter((v) => {
+    if (!v) return false;
+    return !v.startsWith("#");
+  });
 }
