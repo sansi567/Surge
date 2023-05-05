@@ -1,5 +1,10 @@
-import chn from "./src/chnroutes2/chnroutes2.ts";
-import bogus from "./src/bogus/bogus.ts";
+import * as build from "./src/mod.ts";
 
-await chn();
-await bogus();
+console.log(`Build start`)
+
+Object.entries(build).map(async ([key, val]) => {
+    console.log(`Build: ${key}...`)
+    await val();
+});
+
+console.log(`Build finished`)

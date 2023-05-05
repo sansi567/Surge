@@ -1,26 +1,21 @@
+import writeFile from "./writefile.ts";
+
 const addr =
   "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf";
+
+const meta = {
+  title: "Bogus",
+  source: "https://github.com/felixonmars/dnsmasq-china-list",
+  content: "",
+  path: "/Ruleset/Block/Bogus.list",
+};
 
 export default async function build() {
   const data = await parse();
   const list = data.map((v) => {
     return `IP-CIDR,${v}/32,no-resolve\n`;
   });
-
-  const file = await Deno.open(`${Deno.cwd()}/Ruleset/Block/Bogus.list`, {
-    write: true,
-    truncate: true,
-  });
-
-  await file.write(
-    new TextEncoder().encode(
-      `# Bogus, https://github.com/felixonmars/dnsmasq-china-list\n# Update: ${
-        new Date().toString()
-      }\n${list.join("")}`,
-    ),
-  );
-
-  file.close();
+  await writeFile({ ...meta, content: list.join("") });
 }
 
 export async function parse() {

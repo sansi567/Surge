@@ -1,26 +1,21 @@
+import writeFile from "./writefile.ts";
+
 const addr =
   "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt";
+
+const meta = {
+  title: "China CIDR",
+  source: "https://misaka.io",
+  content: "",
+  path: "/Ruleset/China/China.list",
+};
 
 export default async function build() {
   const data = await parse();
   const list = data.map((v) => {
     return `IP-CIDR,${v}\n`;
   });
-
-  const file = await Deno.open(`${Deno.cwd()}/Ruleset/China/China.list`, {
-    write: true,
-    truncate: true,
-  });
-
-  await file.write(
-    new TextEncoder().encode(
-      `# China CIDR, https://misaka.io\n# Update: ${new Date().toString()}\n${
-        list.join("")
-      }`,
-    ),
-  );
-
-  file.close();
+  await writeFile({ ...meta, content: list.join("") });
 }
 
 export async function parse() {
