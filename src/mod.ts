@@ -5,4 +5,4 @@ import Chn from "./chnroutes2.ts";
 import Cloudflare from "./cloudflare.ts";
 import Xiaomi from "./cn_xiaomi.ts";
 
-export {AppleCDN, Base, Bogus, Chn, Cloudflare, Xiaomi};
+export { AppleCDN, Base, Bogus, Chn, Cloudflare, Xiaomi };
