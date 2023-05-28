@@ -1,5 +1,5 @@
 # Apple CDN, https://github.com/felixonmars/dnsmasq-china-list
-# Update: Sun May 28 2023 05:44:57 GMT+0000 (Coordinated Universal Time)
+# Update: Sun May 28 2023 06:44:56 GMT+0000 (Coordinated Universal Time)
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,init-s01st.push.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,ipcdn.apple.com
 DOMAIN-SUFFIX,iphone-ld.apple.com
+DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,is1-ssl.mzstatic.com
 DOMAIN-SUFFIX,is1.mzstatic.com
 DOMAIN-SUFFIX,is2-ssl.mzstatic.com
@@ -133,6 +134,8 @@ DOMAIN-SUFFIX,valid.apple.com
 DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
 DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
+DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com
