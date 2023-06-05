@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Mon Jun 05 2023 10:45:09 GMT+0000 (Coordinated Universal Time)
+# Update: Mon Jun 05 2023 11:45:10 GMT+0000 (Coordinated Universal Time)
 .scptp1.com
 .so333o.com
 .rdsncyndhj.com
@@ -33018,7 +33018,6 @@
 .trj.valuecommerce.com
 .aml.valuecommerce.com
 .thoth.utyug.media
-.prod.fennec.atp.fox
 .analytics.data.visenze.com
 .evs.proxy.analytics.shutterstock.com
 .gtm-server.healthline.com
@@ -52986,11 +52985,16 @@
 .freecontent.stream
 .hostingcloud.party
 .wasm.stream
+.harborcaption.com
+.inputicicle.com
+.looseloaf.com
+.strivesquirrel.com
 .bat.bing.com
 .bc.geocities.
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
+.fennec.atp.fox
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
