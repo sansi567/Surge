@@ -1,5 +1,6 @@
 # Base, EasyList, AdGuard
-# Update: Fri Jun 09 2023 11:45:18 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Jun 09 2023 12:55:49 GMT+0000 (Coordinated Universal Time)
+.scfsdvc.com
 .enbclpbyi.com
 .zwbbkjvzqbyba.top
 .lmjwqbjmkrzyw.top
@@ -27788,7 +27789,6 @@
 .adserver.shadow.snapads.com
 .ads-chunks.prod.ihrhls.com
 .api.ads.watchabc.go.com
-.ad.prismamediadigital.com
 .socdm.com
 .criteo.com
 .criteo.net
@@ -27812,6 +27812,10 @@
 .c3.myapkcdn.in
 .plugin.mobopay.baidu.com
 .mo.freeindoapp.com
+.reqde.afreecatv.com
+.adballoon.afreecatv.com
+.deapi.afreecatv.com
+.mtag.mman.kr
 .hybird.rayjump.com
 .anythinktech.com
 .d3hdbjtb1686tn.cloudfront.net
@@ -28161,7 +28165,6 @@
 .ad.ohmyad.co
 .ad.smaad.jp
 .ad.vrvm.com
-.ad132m.com
 .adback.tango.me
 .adblade.com
 .adbrau.com
@@ -28268,7 +28271,6 @@
 .chartboost.com
 .clk.taptica.com
 .clkfeed.com
-.cntcash.ru
 .cpmstar.com
 .crispadvertising.com
 .crossboardmobile.com
@@ -28288,10 +28290,8 @@
 .focas.jp
 .fyber.com
 .geede.info
-.gigamega.su
 .go.mobstitialtag.com
 .googleadservices.com
-.gsmtop.net
 .gts-ads.twistbox.com
 .heyzap.com
 .hormebets.info
@@ -38612,7 +38612,6 @@
 .log.mofa.go.kr
 .logs-partners.coupang.com
 .megadata.co.kr
-.mtag.mman.kr
 .ngc1.nsm-corp.com
 .performanceplay.co.kr
 .sas.nsm-corp.com
@@ -46227,6 +46226,7 @@
 .ssancib.top
 .v9gfm.xyz
 .v88yaat.xyz
+.bny9.cn
 .001adafg.xyz
 .003aldjads.xyz
 .004fsdljasd.xyz
