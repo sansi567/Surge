@@ -1,0 +1,7 @@
+#!!name=Test Emby
+
+[Script]
+unlock_emby_premium = requires-body=1,max-size=0,script-path=https://surge.x2ox.com/Script/__emby.js,script-update-interval=86400,type=http-response,pattern=^https://mb3admin.com/.*
+
+[MITM]
+hostname = %APPEND% mb3admin.com
