@@ -72,16 +72,12 @@ DOMAIN,httpdns.browser.miui.com
 
 # - DoH
 # Adobe
-127.0.0.1 3dns-1.adobe.com
-127.0.0.1 3dns-2.adobe.com
-127.0.0.1 3dns-3.adobe.com
-127.0.0.1 3dns-4.adobe.com
-127.0.0.1 activate.adobe.com
-127.0.0.1 adobe-dns.adobe.com
-127.0.0.1 adobe-dns-1.adobe.com
-127.0.0.1 adobe-dns-2.adobe.com
-127.0.0.1 adobe-dns-3.adobe.com
-127.0.0.1 adobe-dns-4.adobe.com
-127.0.0.1 3dns-3.adobe.com
-127.0.0.1 3dns-2.adobe.com
-
+DOMAIN,3dns-1.adobe.com
+DOMAIN,3dns-2.adobe.com
+DOMAIN,3dns-3.adobe.com
+DOMAIN,3dns-4.adobe.com
+DOMAIN,adobe-dns.adobe.com
+DOMAIN,adobe-dns-1.adobe.com
+DOMAIN,adobe-dns-2.adobe.com
+DOMAIN,adobe-dns-3.adobe.com
+DOMAIN,adobe-dns-4.adobe.com
