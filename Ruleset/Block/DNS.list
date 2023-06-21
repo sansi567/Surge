@@ -69,6 +69,8 @@ DOMAIN,httpdns.byteoversea.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdns.browser.miui.com
 
+DOMAIN,lofter.httpdns.c.163.com
+DOMAIN,music.httpdns.c.163.com
 
 # - DoH
 # Adobe
