@@ -1,0 +1,7 @@
+#!name=Test Pixiv Premium
+
+[Script]
+Pixiv Premium = type=http-response,pattern=^https:\/\/oauth\.secure\.pixiv\.net\/auth\/token,requires-body=1,max-size=0,script-path=https://surge.x2ox.com/Script/oauth.secure.pixiv.net.js,script-update-interval=0
+
+[MITM]
+hostname = %APPEND% oauth.secure.pixiv.net
