@@ -26,5 +26,5 @@ export async function parse(addr: string) {
   return body.split("\n").map((v) => {
     if (!v || v === "") return "";
     return v;
-  }).filter((v) => v !== "").concat(["1.0.0.1", "1.1.1.1"]);
+  }).filter((v) => v !== "").concat(["1.0.0.1/32", "1.1.1.1/32"]);
 }
