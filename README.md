@@ -36,17 +36,6 @@ DOMAIN-SET,https://surge.x2ox.com/Ruleset/CDN/Cloudflare.list,Direct
 - 手动维护
 - 针对 Cloudflare 的规则，方便针对性的调整代理
 
-#### Whiten
-
-```ini
-# https://surge.x2ox.com/Ruleset/Whiten/Whiten.list
-RULE-SET,https://surge.x2ox.com/Ruleset/Whiten/Whiten.list,Direct
-```
-
-- 手动维护
-- 源自神机策略中的 Unbreak，用于放行部分不需要走后续规则的内容
-- 可用可不用
-
 #### Process
 
 ```ini
@@ -166,14 +155,6 @@ RULE-SET,https://surge.x2ox.com/Ruleset/Block/YouTube.list,Reject
 - 不推荐使用，基本上没什么效果
 
 ## Modules 模块
-
-#### DNS 指定
-
-```ini
-https://surge.x2ox.com/Modules/dns_mapping.sgmodule
-```
-
-- 指定服务用厂家自己的 DNS 服务对应的公共 DNS 解析
 
 #### 排除保留 IP 段
 
