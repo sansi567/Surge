@@ -1,5 +1,9 @@
 # Base, EasyList, AdGuard
-# Update: Thu Jul 27 2023 11:45:02 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Jul 27 2023 12:56:25 GMT+0000 (Coordinated Universal Time)
+.remarkinspector.com
+.vwhnfwdbf.com
+.zidgrrfgb.com
+.primeleech.com
 .phoosuss.net
 .hskywgpickh.com
 .faptdsway.ru
@@ -35516,7 +35520,6 @@
 .code.lockbot.net
 .codes.royalad.pl
 .collect.igodigital.com
-.collect.tianya.cn
 .collect.usefathom.com
 .audience.acpm.fr
 .collector-analytics.efigence.com
@@ -35531,29 +35534,22 @@
 .collector.megaxh.com
 .collector.pi.spectrum.net
 .collector.prod.expedia.com
-.collector.puhutv.com
 .collector.retailcrm.pro
 .collector.rn.de
 .collector.schibsted.io
-.collector.shopstream.co
-.collector.shorte.st
 .collector.szlcsc.com
-.collector.tescocompare.com
 .collector.trendmd.com
 .collector.wawlabs.com
 .collector.xhwide1.com
 .collector1.xhamster.com
-.comet.sputniknews.com
 .conf.international.baidu.com
 .count.channeladvisor.com
 .count.livetv.ru
 .count.livetv.sx
 .count.munhwa.com
-.count.prx.org
 .count.rin.ru
 .count.rtl.de
 .counter.1gb.ru
-.counter.24smi.info
 .counter.adguard.com
 .counter.ajansspor.com
 .counter.all.biz
@@ -35565,13 +35561,11 @@
 .counter.nn.ru
 .counter.nv.ua
 .counter.ok.ee
-.counter.opinion.com.ua
 .counter.pr-cy.ru
 .counter.promodeejay.net
 .counter.rambler.ru
 .counter.rian.ru
 .counter.scribblelive.com
-.counter.scribblelive.net
 .counter.sibnet.ru
 .counter.sina.com.cn
 .counter.snackly.co
@@ -35580,14 +35574,12 @@
 .counter.tianjimedia.com
 .counter.top.ge
 .counter.top.kg
-.counter.tovarro.com
 .counter.ukr.net
 .counter.web.money
 .counter.zerohedge.com
 .counter1.fc2.com
 .counter24.luxnet.ua
 .cpxl.golem.de
-.crm.zenguard.biz
 .crta.dailymail.co.uk
 .crta.metro.co.uk
 .csr.onet.pl
@@ -35785,9 +35777,7 @@
 .geo.mattel163.com
 .geo.metronews.ca
 .geo.mozilla.org
-.geo.perezhilton.com
 .geo.play.it
-.geo.theawesomer.com
 .geo.xcel.io
 .geo.yahoo.com
 .geobeacon.ign.com
@@ -36785,19 +36775,14 @@
 .tracking.olx-st.com
 .tracking.oui.sncf
 .tracking.performgroup.com
-.tracking.pixelfederation.com
 .tracking.porndoelabs.com
-.tracking.pornhd.com
-.tracking.propelmedia.com
 .tracking.rce.veeseo.com
-.tracking.realtor.com
 .tracking.resumecompanion.com
 .tracking.retailrocket.net
 .tracking.rtl.de
 .tracking.s24.com
 .tracking.shopback.com
 .tracking.shoptogether.buy.com
-.tracking.sim-technik.de
 .tracking.skyword.com
 .tracking.softwareprojects.com
 .tracking.swogo.net
@@ -36810,7 +36795,6 @@
 .tracking.ukwm.co.uk
 .tracking.unrealengine.com
 .tracking.ustream.tv
-.tracking.vitringez.com
 .tracking.yourfilehost.com
 .tracking2.channeladvisor.com
 .trackingapi.cloudapp.net
@@ -44209,6 +44193,7 @@
 .vt4dlx.ru
 .xifg6h.ru
 .zfvklk.ru
+.r.z3.fm
 .adv.topvideo.tj
 .vast.playmatic.video
 .oba.rus-km.ru
@@ -44331,7 +44316,6 @@
 .jsc.marketgid.com.p.pstl.live
 .json.smotri.com
 .kinogo.r.worldssl.net
-.lnews.riafan.ru
 .lobster.unionpeer.com
 .loki.maximonline.ru
 .mixtraff.silvercdn.com
@@ -47634,6 +47618,7 @@
 .hghjks2.com
 .a9able.com
 .uxtruz.xyz
+.8861198.com
 .zifyeldq.top
 .ziravd.xyz
 .znyjmbh.icu
@@ -53714,7 +53699,13 @@
 .collect2.sas.com
 .collection.theaa.com
 .collector-medium.lightstep.com
+.collector.shopstream.co
+.collector.shorte.st
+.collector.tescocompare.com
 .collector.xhamster.com
+.count.prx.org
+.geo.perezhilton.com
+.geo.theawesomer.com
 .log.prezi.com
 .log.thevideo.me
 .logdev.openload.co
@@ -53729,6 +53720,8 @@
 .track.collegehumor.com
 .track.zalando.
 .tracking.olx.
+.tracking.pornhd.com
+.tracking.realtor.com
 .adocean.cz
 .vahufapave.com
 .cewegncr.com
