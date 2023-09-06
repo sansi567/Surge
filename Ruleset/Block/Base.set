@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Wed Sep 06 2023 22:45:00 GMT+0000 (Coordinated Universal Time)
+# Update: Wed Sep 06 2023 23:44:53 GMT+0000 (Coordinated Universal Time)
 .qmaacxajsovk.com
 .limurol.com
 .plungepilmy.com
@@ -54909,7 +54909,6 @@
 .ad.kisscartoon.nz
 .ad.kisscartoon.sh
 .ad.kisstvshow.ru
-.ads-api.twitter.com
 .adsbb.depositfiles.com
 .aontent.powzers.lol
 .asgg.ghostbin.me
@@ -55028,6 +55027,7 @@
 .imrworldwide.com
 .micpn.com
 .omtrdc.net
+.peiq.services
 .tw.cx
 .zdbb.net
 .zenaps.com
@@ -55044,6 +55044,7 @@
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
+.metrics.doppiostreams.com
 .monitor.azure.com
 .r.skimresources.com
 .sonar.viously.com
