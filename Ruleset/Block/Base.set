@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Sep 07 2023 05:45:11 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Sep 07 2023 06:45:02 GMT+0000 (Coordinated Universal Time)
 .olnjitvizo.com
 .qmaacxajsovk.com
 .limurol.com
@@ -30964,7 +30964,6 @@
 .ad.wsod.com
 .adncdnend.azureedge.net
 .adrackpush.azurewebsites.net
-.ads-api.twitter.com
 .ads-yallo-production.imgix.net
 .ads.betfair.com
 .ads.linkedin.com
@@ -41161,7 +41160,6 @@
 .analytics.cincopa.com
 .analytics.cmn.com
 .analytics.convertlanguage.com
-.analytics.dealer.com
 .analytics.dev.htmedia.in
 .analytics.dev.springboardvideo.com
 .analytics.disneyinternational.com
@@ -41861,6 +41859,7 @@
 .d1cr9zxt7u0sgu.cloudfront.net
 .d1f0tbk1v3e25u.cloudfront.net
 .d1k8sb4xbepqao.cloudfront.net
+.d1qbbgtcslwdbx.cloudfront.net
 .d1qnmu4nrib73p.cloudfront.net
 .d1r2sy6oc0ariq.cloudfront.net
 .d1r55yzuc1b1bw.cloudfront.net
@@ -50095,6 +50094,7 @@
 .zcgqsd.icu
 .hwnod.xyz
 .solaron.top
+.ttienli.top
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -55224,6 +55224,7 @@
 .j927.statnews.com
 .jfapiprod.optimonk.com
 .jumbo.zomato.com
+.kinesis.us-east-1.analytics.edmentum.com
 .link.kogan.com
 .log-gateway.zoom.us
 .log.china.cn
