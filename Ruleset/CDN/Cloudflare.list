@@ -1,28 +1,166 @@
 # Cloudflare CDN, https://www.cloudflare.com/ips
-# Update: Wed Oct 11 2023 16:45:08 GMT+0000 (Coordinated Universal Time)
-IP-CIDR,173.245.48.0/20
-IP-CIDR,103.21.244.0/22
-IP-CIDR,103.22.200.0/22
-IP-CIDR,103.31.4.0/22
-IP-CIDR,141.101.64.0/18
-IP-CIDR,108.162.192.0/18
-IP-CIDR,190.93.240.0/20
-IP-CIDR,188.114.96.0/20
-IP-CIDR,197.234.240.0/22
-IP-CIDR,198.41.128.0/17
-IP-CIDR,162.158.0.0/15
-IP-CIDR,104.16.0.0/13
-IP-CIDR,104.24.0.0/14
-IP-CIDR,172.64.0.0/13
-IP-CIDR,131.0.72.0/22
+# Update: Wed Oct 11 2023 17:44:59 GMT+0000 (Coordinated Universal Time)
+IP-CIDR,<!DOCTYPE html>
+IP-CIDR,<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+IP-CIDR,<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+IP-CIDR,<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+IP-CIDR,<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+IP-CIDR,<head>
+IP-CIDR,<title>Attention Required! | Cloudflare</title>
+IP-CIDR,<meta charset="UTF-8" />
+IP-CIDR,<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+IP-CIDR,<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+IP-CIDR,<meta name="robots" content="noindex, nofollow" />
+IP-CIDR,<meta name="viewport" content="width=device-width,initial-scale=1" />
+IP-CIDR,<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+IP-CIDR,<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+IP-CIDR,<style>body{margin:0;padding:0}</style>
+IP-CIDR,<!--[if gte IE 10]><!-->
+IP-CIDR,<script>
+IP-CIDR,  if (!navigator.cookieEnabled) {
+IP-CIDR,    window.addEventListener('DOMContentLoaded', function () {
+IP-CIDR,      var cookieEl = document.getElementById('cookie-alert');
+IP-CIDR,      cookieEl.style.display = 'block';
+IP-CIDR,    })
+IP-CIDR,  }
+IP-CIDR,</script>
+IP-CIDR,<!--<![endif]-->
+IP-CIDR,</head>
+IP-CIDR,<body>
+IP-CIDR,  <div id="cf-wrapper">
+IP-CIDR,    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+IP-CIDR,    <div id="cf-error-details" class="cf-error-details-wrapper">
+IP-CIDR,      <div class="cf-wrapper cf-header cf-error-overview">
+IP-CIDR,        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+IP-CIDR,        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> www.cloudflare.com</h2>
+IP-CIDR,      </div><!-- /.header -->
+IP-CIDR,      <div class="cf-section cf-highlight">
+IP-CIDR,        <div class="cf-wrapper">
+IP-CIDR,          <div class="cf-screenshot-container cf-screenshot-full">
+IP-CIDR,            
+IP-CIDR,              <span class="cf-no-screenshot error"></span>
+IP-CIDR,            
+IP-CIDR,          </div>
+IP-CIDR,        </div>
+IP-CIDR,      </div><!-- /.captcha-container -->
+IP-CIDR,      <div class="cf-section cf-wrapper">
+IP-CIDR,        <div class="cf-columns two">
+IP-CIDR,          <div class="cf-column">
+IP-CIDR,            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+IP-CIDR,            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+IP-CIDR,          </div>
+IP-CIDR,          <div class="cf-column">
+IP-CIDR,            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+IP-CIDR,            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+IP-CIDR,          </div>
+IP-CIDR,        </div>
+IP-CIDR,      </div><!-- /.section -->
+IP-CIDR,      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+IP-CIDR,  <p class="text-13">
+IP-CIDR,    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8148ea0bddf3241e</strong></span>
+IP-CIDR,    <span class="cf-footer-separator sm:hidden">&bull;</span>
+IP-CIDR,    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+IP-CIDR,      Your IP:
+IP-CIDR,      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+IP-CIDR,      <span class="hidden" id="cf-footer-ip">172.176.229.28</span>
+IP-CIDR,      <span class="cf-footer-separator sm:hidden">&bull;</span>
+IP-CIDR,    </span>
+IP-CIDR,    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+IP-CIDR,    
+IP-CIDR,  </p>
+IP-CIDR,  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+IP-CIDR,</div><!-- /.error-footer -->
+IP-CIDR,    </div><!-- /#cf-error-details -->
+IP-CIDR,  </div><!-- /#cf-wrapper -->
+IP-CIDR,  <script>
+IP-CIDR,  window._cf_translation = {};
+IP-CIDR,  
+IP-CIDR,  
+IP-CIDR,</script>
+IP-CIDR,<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"8148ea0bddf3241e","version":"2023.8.0","b":1,"token":"6f9a2202213848f5bff934592489e351","si":100}' crossorigin="anonymous"></script>
+IP-CIDR,</body>
+IP-CIDR,</html>
 IP-CIDR,1.0.0.1/32
 IP-CIDR,1.1.1.1/32
-IP-CIDR6,2400:cb00::/32
-IP-CIDR6,2606:4700::/32
-IP-CIDR6,2803:f800::/32
-IP-CIDR6,2405:b500::/32
-IP-CIDR6,2405:8100::/32
-IP-CIDR6,2a06:98c0::/29
-IP-CIDR6,2c0f:f248::/32
+IP-CIDR6,<!DOCTYPE html>
+IP-CIDR6,<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+IP-CIDR6,<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+IP-CIDR6,<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+IP-CIDR6,<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+IP-CIDR6,<head>
+IP-CIDR6,<title>Attention Required! | Cloudflare</title>
+IP-CIDR6,<meta charset="UTF-8" />
+IP-CIDR6,<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+IP-CIDR6,<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+IP-CIDR6,<meta name="robots" content="noindex, nofollow" />
+IP-CIDR6,<meta name="viewport" content="width=device-width,initial-scale=1" />
+IP-CIDR6,<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+IP-CIDR6,<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+IP-CIDR6,<style>body{margin:0;padding:0}</style>
+IP-CIDR6,<!--[if gte IE 10]><!-->
+IP-CIDR6,<script>
+IP-CIDR6,  if (!navigator.cookieEnabled) {
+IP-CIDR6,    window.addEventListener('DOMContentLoaded', function () {
+IP-CIDR6,      var cookieEl = document.getElementById('cookie-alert');
+IP-CIDR6,      cookieEl.style.display = 'block';
+IP-CIDR6,    })
+IP-CIDR6,  }
+IP-CIDR6,</script>
+IP-CIDR6,<!--<![endif]-->
+IP-CIDR6,</head>
+IP-CIDR6,<body>
+IP-CIDR6,  <div id="cf-wrapper">
+IP-CIDR6,    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+IP-CIDR6,    <div id="cf-error-details" class="cf-error-details-wrapper">
+IP-CIDR6,      <div class="cf-wrapper cf-header cf-error-overview">
+IP-CIDR6,        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+IP-CIDR6,        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> www.cloudflare.com</h2>
+IP-CIDR6,      </div><!-- /.header -->
+IP-CIDR6,      <div class="cf-section cf-highlight">
+IP-CIDR6,        <div class="cf-wrapper">
+IP-CIDR6,          <div class="cf-screenshot-container cf-screenshot-full">
+IP-CIDR6,            
+IP-CIDR6,              <span class="cf-no-screenshot error"></span>
+IP-CIDR6,            
+IP-CIDR6,          </div>
+IP-CIDR6,        </div>
+IP-CIDR6,      </div><!-- /.captcha-container -->
+IP-CIDR6,      <div class="cf-section cf-wrapper">
+IP-CIDR6,        <div class="cf-columns two">
+IP-CIDR6,          <div class="cf-column">
+IP-CIDR6,            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+IP-CIDR6,            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+IP-CIDR6,          </div>
+IP-CIDR6,          <div class="cf-column">
+IP-CIDR6,            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+IP-CIDR6,            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+IP-CIDR6,          </div>
+IP-CIDR6,        </div>
+IP-CIDR6,      </div><!-- /.section -->
+IP-CIDR6,      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+IP-CIDR6,  <p class="text-13">
+IP-CIDR6,    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8148ea0d9fcd241e</strong></span>
+IP-CIDR6,    <span class="cf-footer-separator sm:hidden">&bull;</span>
+IP-CIDR6,    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+IP-CIDR6,      Your IP:
+IP-CIDR6,      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+IP-CIDR6,      <span class="hidden" id="cf-footer-ip">172.176.229.28</span>
+IP-CIDR6,      <span class="cf-footer-separator sm:hidden">&bull;</span>
+IP-CIDR6,    </span>
+IP-CIDR6,    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+IP-CIDR6,    
+IP-CIDR6,  </p>
+IP-CIDR6,  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+IP-CIDR6,</div><!-- /.error-footer -->
+IP-CIDR6,    </div><!-- /#cf-error-details -->
+IP-CIDR6,  </div><!-- /#cf-wrapper -->
+IP-CIDR6,  <script>
+IP-CIDR6,  window._cf_translation = {};
+IP-CIDR6,  
+IP-CIDR6,  
+IP-CIDR6,</script>
+IP-CIDR6,<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"8148ea0d9fcd241e","version":"2023.8.0","b":1,"token":"6f9a2202213848f5bff934592489e351","si":100}' crossorigin="anonymous"></script>
+IP-CIDR6,</body>
+IP-CIDR6,</html>
 IP-CIDR6,1.0.0.1/32
 IP-CIDR6,1.1.1.1/32
