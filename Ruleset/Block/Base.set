@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Oct 13 2023 21:45:07 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Oct 13 2023 22:45:09 GMT+0000 (Coordinated Universal Time)
 .smatr.icu
 .cuyynol.com
 .cbshanld.com
@@ -39111,7 +39111,6 @@
 .analytics-static.ugc.bazaarvoice.com
 .analytics.74.ru
 .analytics.adfreetime.com
-.analytics.adoffice.11st.co.kr
 .analytics.appservice.tech
 .analytics.archive.org
 .analytics.atlassian.com
@@ -56750,6 +56749,7 @@
 .googletagmanager.com
 .imrworldwide.com
 .omtrdc.net
+.statisticsplatform.com
 .tw.cx
 .zdbb.net
 .zenaps.com
@@ -74101,6 +74101,7 @@
 .track.buyma.com
 .x.allabout.co.jp
 .yjtag.yahoo.co.jp
+.adoffice.11st.co.kr
 .hits.zdnet.co.kr
 .kyson.kakao.com
 .stat.tiara.daum.net
