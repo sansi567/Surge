@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Oct 26 2023 01:34:16 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Oct 26 2023 02:05:37 GMT+0000 (Coordinated Universal Time)
 .arvigorothan.com
 .fringesdurocs.com
 .promo.pixelsee.app
@@ -57222,11 +57222,13 @@
 .freecontent.stream
 .hostingcloud.party
 .wasm.stream
+.activity-flow.vtex.com
 .bat.bing.com
 .bc.geocities.
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
+.eventlog.chatlead.com
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
@@ -57235,6 +57237,7 @@
 .r.skimresources.com
 .t.skimresources.com
 .tag.aticdn.net
+.telemetry.vtex.com
 .tracker.twenga.
 .tracking.magnetmail.net
 .try.abtasty.com
