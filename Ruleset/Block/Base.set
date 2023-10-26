@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Oct 26 2023 22:44:59 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Oct 26 2023 23:45:07 GMT+0000 (Coordinated Universal Time)
 .arvigorothan.com
 .fringesdurocs.com
 .promo.pixelsee.app
@@ -50249,7 +50249,6 @@
 .webbannons.ntm.eu
 .webstats.100procent.com
 .web-analytics.ica.se
-.west.statisticplatform.com
 .widget.boende.se
 .widget.cdn.citygate.se
 .widget.citygate.se
@@ -57256,6 +57255,7 @@
 .googletagmanager.com
 .imrworldwide.com
 .omtrdc.net
+.statisticplatform.com
 .tw.cx
 .zdbb.net
 .zenaps.com
