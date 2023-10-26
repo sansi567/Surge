@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Oct 26 2023 05:45:01 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Oct 26 2023 06:45:04 GMT+0000 (Coordinated Universal Time)
 .arvigorothan.com
 .fringesdurocs.com
 .promo.pixelsee.app
@@ -43116,6 +43116,7 @@
 .a.hcaptcha.com
 .a.opumo.net
 .aan.amazon.com
+.activity-flow.vtex.com
 .activity.wisepops.com
 .ad.aloodo.com
 .adfox.yandex.ru
@@ -43387,6 +43388,7 @@
 .event-logger.tagboard.com
 .event-service.letslinc.com
 .eventgateway.soundcloud.com
+.eventlog.chatlead.com
 .events.attentivemobile.com
 .events.audiate.me
 .events.btw.so
@@ -43399,6 +43401,7 @@
 .events.realgravity.com
 .events.shareably.net
 .events.split.io
+.events.storifyme.com
 .events.yourcx.io
 .f-log-at.grammarly.io
 .f-log-test.grammarly.io
@@ -43720,6 +43723,7 @@
 .telemetry.phenixrts.com
 .telemetry.reembed.com
 .telemetry.tableausoftware.com
+.telemetry.vtex.com
 .timber.sendtonews.com
 .timejs.game.163.com
 .tm.vendemore.com
@@ -51678,6 +51682,7 @@
 .beezwol.com
 .ksrgsc.xyz
 .dcdglb.xyz
+.z0a1b2c3d4.com
 .zzyy20.top
 .01v62.xyz
 .023best.cn
@@ -57222,14 +57227,11 @@
 .freecontent.stream
 .hostingcloud.party
 .wasm.stream
-.activity-flow.vtex.com
 .bat.bing.com
 .bc.geocities.
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
-.eventlog.chatlead.com
-.events.storifyme.com
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
@@ -57238,7 +57240,6 @@
 .r.skimresources.com
 .t.skimresources.com
 .tag.aticdn.net
-.telemetry.vtex.com
 .tracker.twenga.
 .tracking.magnetmail.net
 .try.abtasty.com
