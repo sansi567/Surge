@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Tue Oct 31 2023 11:45:02 GMT+0000 (Coordinated Universal Time)
+# Update: Tue Oct 31 2023 12:54:42 GMT+0000 (Coordinated Universal Time)
 .adtclickwhite.com
 .moneytatorone.com
 .tlvkywwnuvgtq.com
@@ -33683,6 +33683,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads-sdk.nianticlabs.com
 .ad.mediamixer.co.kr
 .adx.promo
 .adfork.co.kr
@@ -51698,6 +51699,8 @@
 .bpbfymv.xyz
 .iccjkn.icu
 .estixfl.cn
+.unidict.cn
+.njrnwan.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
