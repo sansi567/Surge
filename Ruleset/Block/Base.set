@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Fri Nov 10 2023 11:44:51 GMT+0000 (Coordinated Universal Time)
+# Update: Fri Nov 10 2023 12:55:07 GMT+0000 (Coordinated Universal Time)
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -33593,6 +33593,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.adrouter-charter-vod.cadenttech.tv
 .tapulsads.ru
 .ads-sdk.nianticlabs.com
 .ad.mediamixer.co.kr
@@ -39728,6 +39729,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tracker.srta.spectrum.com
 .event-collector.moviesanywhere.com
 .us-east-1.paa-reporting-advertising.amazon
 .analytics.nianticlabs.com
@@ -49605,7 +49607,6 @@
 .analytics.svt.se
 .analytics.ci-360.se
 .angry-golick-2a96e5.netlify.app
-.annons.lidkopingsnytt.nu
 .annons.svenskjakt.se
 .annons.turist.se
 .annonsera.kyrkanstidning.se
@@ -49618,7 +49619,6 @@
 .aquaplatform.com
 .arbetaren.innocraft.cloud
 .asicsisverige.com
-.asicsverige.com.se
 .asmassets.mtvnservices.com
 .assets.adfenix.com
 .auction-release.mlpapi.com
@@ -49632,16 +49632,13 @@
 .bellmetric.net
 .bettersport.se
 .bettingstugan.se
-.bilcertificat.se
 .bilpolicydi.bytelab.dk
 .biowebb-data.s3.amazonaws.com
 .bitstarz.com
 .bjursundfastigheter.se
-.bmbstatic.blob.core.windows.net
 .boost-cdn.manatee.dk
 .borsvarlden-banners.azurewebsites.net
 .brandy.bonniernewslifestyle.se
-.brews.marketale.com
 .browser.covatic.io
 .browser-http-intake.logs.datadoghq.com
 .browser-http-intake.logs.datadoghq.eu
@@ -49719,12 +49716,10 @@
 .dspk.kindredplc.com
 .dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
 .eas.mediekompaniet.com
-.eccoskorea.com.se
 .ecsanalytics.com
 .edge.atmtd.com
 .embi-media.com
 .etc-cdn-staging.ams3.digitaloceanspaces.com
-.eteppy.com
 .eum.instana.io
 .europe-west1-bonnier-big-data.cloudfunctions.net
 .evtr.nordiskemedier.dk
@@ -49747,12 +49742,10 @@
 .gtm.proff.se
 .gtm.stampenmedia.se
 .gwen.insertcoin.se
-.gymsharksverige.com.se
 .gym-shark-sverige.com.se
 .hapyak.com
 .heroaffiliates.com
 .hollistersverige.com.se
-.hpevoices.com
 .h.online-metrix.net
 .iba.feedblitz.com
 .icarabatt.com
@@ -49783,7 +49776,6 @@
 .lasso.link
 .leadconnect.ipmaxi.se
 .leadenhancer.com
-.legero.com.se
 .leiki-doubleclick-proxy.appspot.com
 .levaochbo.compricer.se
 .libring.com
@@ -49793,7 +49785,6 @@
 .log-api.newrelic.com
 .longchampstockholm.com.se
 .low1sneakerssverige.com
-.lululemonstockholm.com.se
 .m.extellio.com
 .m1.analytics.sitevision-cloud.se
 .marcjacobssverige.com.se
@@ -49825,13 +49816,10 @@
 .missaffiliate.com
 .mmetrix.mobi
 .moceanads.com
-.mountainhardwearsverige.com.se
-.mouskor.com.se
 .mraffiliate.com
 .mrporter-creative.prf.hn
 .mtpc.se
 .mtst.io
-.muckbootssverige.com.se
 .my.hellobar.com
 .nbes.nu
 .network.ad.nu
@@ -49852,7 +49840,6 @@
 .owa.agriprim.se
 .p.insplanet.com
 .palmangelssverige.com.se
-.patagonias.com.se
 .pcf.tdscd.com
 .petrk.com
 .piwik.qmmedia.zone
@@ -49863,14 +49850,12 @@
 .portalhc.com
 .postnord-sverige.com
 .proxyas.com
-.pumaskorrea.com.se
 .pushcrew.com
 .pxl.host
 .r.existenz.se
 .rabattcoop.com
 .recirculation.spot.im
 .record.findtrustclicks.com
-.reeboksverige.com.se
 .regstat.se
 .reklam.6x.se
 .report.23video.com
@@ -50076,11 +50061,9 @@
 .tracking.fagersta-posten.se
 .traffic.feedremedy.com
 .trckr1.nordiskemedier.dk
-.tretorn-rea.com.se
 .ubembed.com
 .umami.nordiskehandel.cloud
 .upsales.com
-.vagabondskorrea.com.se
 .valentinosverige.com
 .vejaskorstockholm.com.se
 .viagogo.se
@@ -51709,6 +51692,9 @@
 .whqgyo.xyz
 .icwnix.icu
 .bxbyll.xyz
+.zyzo.cn
+.iuvssgh.cn
+.hxhx9.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
