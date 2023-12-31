@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Sun Dec 31 2023 11:45:01 GMT+0000 (Coordinated Universal Time)
+# Update: Sun Dec 31 2023 12:52:57 GMT+0000 (Coordinated Universal Time)
 .srwfwllymprt.com
 .orpoobj.com
 .worldwhoisq.org
@@ -44375,6 +44375,7 @@
 .beacon.statful.com
 .beacon.viewlift.com
 .beam.mjhlifesciences.com
+.beamanalytics.b-cdn.net
 .bee.tc.easebar.com
 .bento.agoda.com
 .bi.medscape.com
@@ -44389,6 +44390,7 @@
 .c3metrics.medifast1.com
 .cache2.delvenetworks.com
 .cahf4eed.mooo.com
+.calltrack.co
 .camel.headfarming.com
 .capture-api.ap3prod.com
 .capture.condenastdigital.com
@@ -44634,6 +44636,7 @@
 .loglady.skypicker.com
 .logs-api.shoprunner.com
 .logs.animaapp.com
+.logs.mezmo.com
 .lucid.mjhassoc.com
 .ma.logsss.com
 .magento-recs-sdk.adobe.net
@@ -51225,8 +51228,11 @@
 .tracking.arbetarbladet.se
 .tracking.avestatidning.com
 .tracking.bandypuls.se
+.tracking.barometern.se
 .tracking.bblat.se
+.tracking.blt.se
 .tracking.borlangetidning.se
+.tracking.bt.se
 .tracking.byggindustrin.se
 .tracking.dagensmedia.se
 .tracking.dagensmedicin.se
@@ -51291,17 +51297,23 @@
 .tracking.inboxads.com
 .tracking.jnytt.se
 .tracking.jp.se
+.tracking.kalmarposten.se
+.tracking.klt.nu
+.tracking.kristianstadsbladet.se
 .tracking.ljusdalsposten.se
 .tracking.ljusnan.se
 .tracking.ltz.se
 .tracking.lt.se
 .tracking.market.se
+.tracking.meraosterlen.se
 .tracking.moratidning.se
 .tracking.na.se
 .tracking.norrteljetidning.se
+.tracking.nsk.se
 .tracking.nvp.se
 .tracking.nyaludvikatidning.se
 .tracking.nynashamnsposten.se
+.tracking.olandsbladet.se
 .tracking.omniture.nt.se
 .tracking.op.se
 .tracking.resume.se
@@ -51311,20 +51323,27 @@
 .tracking.skovdenyheter.se
 .tracking.smalandsdagblad.se
 .tracking.smalanningen.se
+.tracking.smp.se
 .tracking.smt.se
 .tracking.soderhamnskuriren.se
 .tracking.sodran.se
 .tracking.st.nu
+.tracking.sydostran.se
 .tracking.sydsvenskan.se
 .tracking.tailsweep.expressen.se
 .tracking.tidningenangermanland.se
 .tracking.tidningenharjedalen.se
 .tracking.tranastidning.se
+.tracking.trelleborgsallehanda.se
+.tracking.ut.se
 .tracking.vastgotabladet.se
+.tracking.vaxjobladet.se
 .tracking.vetlandaposten.se
 .tracking.visitorsvoice.com
 .tracking.vlt.se
 .tracking.vn.se
+.tracking.vxonews.se
+.tracking.ystadsallehanda.se
 .tracking.etidning.fagersta-posten.se
 .tracking.fagersta-posten.se
 .traffic.feedremedy.com
@@ -53715,6 +53734,8 @@
 .fyexyd.icu
 .uydzfldt.xyz
 .bydzfldt.xyz
+.xydzfldt.xyz
+.tydzfldt.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
@@ -58450,15 +58471,12 @@
 .wasm.stream
 .bat.bing.com
 .bc.geocities.
-.beamanalytics.b-cdn.net
-.calltrack.co
 .collector.appconsent.io
 .csi.gstatic.com
 .ct.pinterest.com
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
-.logs.mezmo.com
 .monitor.azure.com
 .p.skimresources.com
 .r.skimresources.com
