@@ -1,5 +1,7 @@
 # Base, EasyList, AdGuard
-# Update: Mon Jan 29 2024 17:45:04 GMT+0000 (Coordinated Universal Time)
+# Update: Mon Jan 29 2024 18:45:26 GMT+0000 (Coordinated Universal Time)
+.mads-fe.amazon.com
+.venturepeasant.com
 .riweeboo.com
 .8trd.online
 .publisher1st.com
@@ -38390,6 +38392,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trackerscript.sqreemtech.com
+.infinity-tracking.com
 .system-debug-1.b-cdn.net
 .lab.analyticspodium.com
 .driveniq.com
@@ -38814,7 +38818,6 @@
 .lndata.com
 .quietyellowday.com
 .client.botchk.net
-.b.px-cdn.net
 .wurfl.io
 .t.trsbf.com
 .t.powerreviews.com
@@ -41939,6 +41942,8 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.analyticswritenew.xerevo.com
+.tracking.staff-start.com
 .p-aw2-adapt-beacon.awsprodops.movetv.com
 .p-cg64-slinganalytics.movetv.com
 .pdsssl.gmarket.co.kr
@@ -57078,6 +57083,7 @@
 .bbyfsfo.cn
 .bcovazp.icu
 .bcqnbge.cn
+.bcthd12.shop
 .bctxtl.xyz
 .bdjdpyrt.xyz
 .bdlexn.xyz
@@ -57096,6 +57102,7 @@
 .bflybplr.xyz
 .bgbqfqwi.xyz
 .bgdgpbpm.xyz
+.bgeg1.fun
 .bhhzlax.xyz
 .bhiagi.xyz
 .bhktalt.cn
@@ -57175,6 +57182,7 @@
 .chnvgdkw.xyz
 .chrtds.xyz
 .chubsxmg.xyz
+.chzjidgc.xyz
 .cjndvoglik.xyz
 .cjohpsc.cn
 .cjpczyi.cn
@@ -57217,6 +57225,7 @@
 .daslethv.com
 .dbpxivi.xyz
 .dcdglb.xyz
+.ddaixdz.cn
 .ddkh59.com
 .ddllhqj.xyz
 .ddvoht.xyz
@@ -57368,6 +57377,7 @@
 .gelbjvl.cn
 .gepvgv.icu
 .gfbdb1.com
+.gfpvvwf.xyz
 .ggrfab.icu
 .ggsnyc.xyz
 .ghbdsbfd.com
@@ -57713,6 +57723,7 @@
 .lrbvxx.xyz
 .lryqef.xyz
 .lsce.top
+.lthmfx.xyz
 .lutrbr.xyz
 .lvnlrmn.xyz
 .lvzkfcm.cn
@@ -57859,6 +57870,7 @@
 .nyfgpbsc.xyz
 .nyhgjmlg.xyz
 .nyhgvn.xyz
+.nykvdwi.cn
 .nyvgbt.xyz
 .nzlrfdv.xyz
 .oafhif.icu
@@ -58084,6 +58096,7 @@
 .syjkscy.cn
 .szbpf.cn
 .szbxm.cn
+.szbxw.cn
 .szmdp.cn
 .szmkr.cn
 .szmmb.cn
@@ -58141,6 +58154,7 @@
 .trf6b.top
 .trojangfw.xyz
 .trrmkzesvyqrary.com
+.tsaristcanapes.com
 .tsvkfwth.xyz
 .tszoxhtk.xyz
 .ttgjwxp.icu
@@ -58288,6 +58302,7 @@
 .vtnmxx.xyz
 .vttqld.xyz
 .vvlhrz.xyz
+.vwsgmf.icu
 .vxdpmxw.xyz
 .vyriglq.cn
 .w3wci.site
@@ -58309,6 +58324,7 @@
 .whranc.cn
 .wjoxqd.com
 .wkrcbszi.xyz
+.wkybwa.xyz
 .wkzsmj.icu
 .wlzlrlp.xyz
 .wmnraj.icu
@@ -58356,6 +58372,7 @@
 .xhgpuxim.xyz
 .xhnvgdkw.xyz
 .xhubsxmg.xyz
+.xhzjidgc.xyz
 .xiaobizaizi1.top
 .xiaohuishu.top
 .xiiepofl.xyz
@@ -58433,6 +58450,7 @@
 .yhnvgdkw.xyz
 .yhtpsy8888.cc
 .yhubsxmg.xyz
+.yhzjidgc.xyz
 .yivkzvog.xyz
 .yjbdyjnctgj.top
 .yjxzvqy.xyz
@@ -58509,19 +58527,6 @@
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
-.yhzjidgc.xyz
-.wkybwa.xyz
-.nykvdwi.cn
-.lthmfx.xyz
-.bgeg1.fun
-.gfpvvwf.xyz
-.tsaristcanapes.com
-.vwsgmf.icu
-.chzjidgc.xyz
-.bcthd12.shop
-.ddaixdz.cn
-.szbxw.cn
-.xhzjidgc.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
