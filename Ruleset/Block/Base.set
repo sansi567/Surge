@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Wed Jan 31 2024 10:45:10 GMT+0000 (Coordinated Universal Time)
+# Update: Wed Jan 31 2024 11:44:56 GMT+0000 (Coordinated Universal Time)
 .mads-fe.amazon.com
 .venturepeasant.com
 .riweeboo.com
@@ -62995,6 +62995,10 @@
 .d2fj3s7h83rb61.cloudfront.net
 .log.popin.cc
 .rlog.popin.cc
+.applog.ssgdfs.com
+.dadispapi.gmarket.co.kr
+.montelena.auction.co.kr
+.utsgw.auction.co.kr
 .tracker.comagic.ru
 .za.zdn.vn
 .a.electerious.com
