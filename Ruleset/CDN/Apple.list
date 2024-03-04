@@ -1,5 +1,5 @@
 # Apple CDN, https://github.com/felixonmars/dnsmasq-china-list
-# Update: Sun Mar 03 2024 23:44:50 GMT+0000 (Coordinated Universal Time)
+# Update: Mon Mar 04 2024 01:37:53 GMT+0000 (Coordinated Universal Time)
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
