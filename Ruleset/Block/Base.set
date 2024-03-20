@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Wed Mar 20 2024 17:45:05 GMT+0000 (Coordinated Universal Time)
+# Update: Wed Mar 20 2024 18:45:09 GMT+0000 (Coordinated Universal Time)
 .ajvkakodvgpe.com
 .rtbuqtue.com
 .roamapheejub.com
@@ -40518,6 +40518,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics-sm.com
+.adxcel-ec2.com
 .cdn.ad-platform.jmty.jp
 .app.ardalio.com
 .events-ingestion.services.gorgias.com
@@ -43896,6 +43898,14 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.s.wayfair.com
+.imk.neweggimages.com
+.grgnsht.nzxt.com
+.h031.familydollar.com
+.api-gtm.grubhub.com
+.event.havasedge.com
+.tag.havasedge.com
+.d401.dollartree.com
 .auth-srv.launchthatapps.com
 .ast.techbook.de
 .track.ttsave.app
@@ -57047,6 +57057,7 @@
 .0j775d.cn
 .0op8kh.cn
 .0oqt9i.cn
+.0q5joc.cn
 .0r3tyg.cn
 .0tq6ub.cn
 .0uvt8b.cn
@@ -57065,6 +57076,7 @@
 .88lm06.com
 .8t9he.cyou
 .8xtm6i.cn
+.999bb222ww.com
 .999xx999kk.com
 .aaoisp.com
 .agmed.cyou
@@ -57136,6 +57148,7 @@
 .difmnd.xyz
 .djxpnuo.xyz
 .dkjwbv.xyz
+.dndmygr.cn
 .dorper.cn
 .dqhxmbx.cn
 .drummers.cn
@@ -57239,6 +57252,7 @@
 .mdhv3.icu
 .misjgy.xyz
 .mlhtr.cn
+.mnifdlax.top
 .mondigo.cn
 .mrtxtrq.xyz
 .mtddqjk.cn
@@ -57296,6 +57310,7 @@
 .qqkkpos.com
 .qrkhwe.xyz
 .qrttfmo.cn
+.qvnbjjd.xyz
 .qw9cu.cyou
 .qzalsk.xyz
 .rarcff.xyz
@@ -57315,6 +57330,7 @@
 .rzfdbsn.cn
 .rzpvbl.xyz
 .savionl.com
+.sdfsad562.xyz
 .sdjkbcjksbdsvv.com
 .seslco.xyz
 .shanvezhu.com
@@ -57326,6 +57342,7 @@
 .smallfo.com
 .snifdlab.top
 .soffersk.com
+.sosakk.xyz
 .spsfupq.cn
 .srzpsbf.xyz
 .svncowt.cn
@@ -57364,6 +57381,7 @@
 .ulwfys.xyz
 .unifdlat.top
 .uqwbcm.xyz
+.urqwzbu.cn
 .usltmus.cn
 .uu22662.com
 .uuvzmba.cn
@@ -57373,6 +57391,7 @@
 .vaekkfv.cn
 .vdvcjlp.cn
 .veaiyl.icu
+.vflorp.xyz
 .vhvwlb.xyz
 .vmnlkr.icu
 .vszzzj.xyz
@@ -57393,6 +57412,7 @@
 .xdmnlxtu.xyz
 .xdrvkdni.xyz
 .xdybwjpa.xyz
+.xedpzh.xyz
 .xhbshv.xyz
 .xhfxtqt.xyz
 .xklofoz.cn
@@ -57430,14 +57450,6 @@
 .zjrtxt.xyz
 .znhlxvb.xyz
 .zojyob.icu
-.sosakk.xyz
-.mnifdlax.top
-.urqwzbu.cn
-.vflorp.xyz
-.sdfsad562.xyz
-.xedpzh.xyz
-.qvnbjjd.xyz
-.dndmygr.cn
 .zopuqv.icu
 .zsjpi.cn
 .zttuvj.xyz
@@ -65668,7 +65680,6 @@
 .crayfish.thingelstad.com
 .crumbs.robinhood.com
 .d.skk.moe
-.d401.dollartree.com
 .data.allstate.com
 .data.guide.photobucket.com
 .data.torry.io
@@ -65742,12 +65753,10 @@
 .gmetrics.getbeamer.com
 .go.pardot.com
 .gotie.tunein.com
-.grgnsht.nzxt.com
 .gtm.wise.com
 .gtreus.aliexpress.com
 .gurgle.pcmag.com
 .gurgle.spiceworks.com
-.h031.familydollar.com
 .htrace.wetvinfo.com
 .i.pokernews.com
 .iam-rum-intake.datadoghq.com
@@ -65856,7 +65865,6 @@
 .rum.kobo.com
 .rvo-cohesion.healthline.com
 .s.gofile.io
-.s.wayfair.com
 .saa.insideedition.com
 .sapphire-api.target.com
 .search.anonymous.ads.brave.com
