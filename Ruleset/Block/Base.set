@@ -1,5 +1,5 @@
 # Base, EasyList, AdGuard
-# Update: Thu Apr 11 2024 21:45:00 GMT+0000 (Coordinated Universal Time)
+# Update: Thu Apr 11 2024 22:44:55 GMT+0000 (Coordinated Universal Time)
 .exxaygm.com
 .vvwkfxidtw.com
 .pseeltaimpu.net
@@ -67383,7 +67383,9 @@
 .bc.geocities.
 .collector.appconsent.io
 .csi.gstatic.com
+.csp.secureserver.net
 .ct.pinterest.com
+.events.api.secureserver.net
 .firebaselogging-pa.googleapis.com
 .g.msn.com
 .geo.ngtv.io
@@ -67732,6 +67734,7 @@
 .target.nationwide.com
 .target.nejm.org
 .tc.geniusmonkey.com
+.tccd.douglas.
 .td.airdroid.com
 .telegraph.prd.api.max.com
 .telemetry.adobe.io
