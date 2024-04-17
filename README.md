@@ -202,7 +202,7 @@ https://surge.x2ox.com/Modules/real_ip.sgmodule
 #### 跳过代理
 
 ```ini
-https://surge.x2ox.com/Modules/skip_proxy.sgmodule
+https://raw.githubusercontent.com/sansi567/Surge/main/Modules/skip_proxy.sgmodule
 ```
 
 - 对内网网段跳过代理
