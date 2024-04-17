@@ -1,5 +1,6 @@
 #!name=Skip Proxy Lists
 #!desc=The domain name and IP address of the proxy are not required.
+#!default=enabled
 
 [General]
 skip-proxy = %APPEND% *.kubesphere.io, *.jusda.int, *.taobao.com, *.baidu.com, *.aliyun.com, *.qq.com, *.jusdaglobal.com, *.jus-link.int, *.vvnm.cn, *.foxconn.com
