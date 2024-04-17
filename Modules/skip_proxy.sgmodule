@@ -3,3 +3,13 @@
 
 [General]
 skip-proxy = localhost, *.local, injections.adguard.org, local.adguard.org, captive.apple.com, guzzoni.apple.com, passenger.t3go.cn, seed-sequoia.siri.apple.com, sequoia.apple.com, *.jusda.int, *.taobao.com, *.baidu.com, *.aliyun.com, *.qq.com, *.jusdaglobal.com, *.jus-link.int, *.vvnm.cn, *.foxconn.com, 0.0.0.0/8, 10.0.0.0/8, 17.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32
+
+#!name=Domain redirection
+#!desc=将 google.cn 的请求重定向到 google.com
+
+[URL Rewrite]
+^https?://(www.)?(g|google)\.cn https://www.google.com 302
+^https?://translate\.google\.cn https://translate.google.com 302
+
+[MITM]
+hostname = %APPEND% g.cn,www.g.cn,google.cn,www.google.cn,translate.google.cn
