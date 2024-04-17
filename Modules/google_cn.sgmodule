@@ -1,4 +1,4 @@
-#!name=谷歌中国重定向
+#!name=Domain redirection
 #!desc=将 google.cn 的请求重定向到 google.com
 
 [URL Rewrite]
