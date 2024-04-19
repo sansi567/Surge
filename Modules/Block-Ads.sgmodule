@@ -1,0 +1,7 @@
+#!name=Block ads and domain names
+#!desc=屏蔽广告、域名等。
+
+[Rule]
+DOMAIN,order.luckydogsoft.com,REJECT
+# IP-CIDR,193.9.44.0/24,Proxy
+# PROCESS-NAME,/Applications/FinalShell.app/Contents/MacOS/FinalShell,DIRECT
